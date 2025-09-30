@@ -1,0 +1,1 @@
+ING a basic c++ counter with the addition that when closed with "esc" it creates a txt file where it says how much you pressed space. ITA un counter in c++ con l'aggiunta che quando si clicca "esc" crea un txt file dove dice quante volte hai premuto spazio
